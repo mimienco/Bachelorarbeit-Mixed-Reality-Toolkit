@@ -8,7 +8,7 @@ Diese Bachelorarbeit beschäftigt sich mit der Entwicklung, Integration und Anwe
 ## Dateizugriff
 
 **Hinweis:**  
-Aufgrund von Speicherbeschränkungen wurden **ausschließlich die Applikationen** (Builds) des Projekts hochgeladen. Die vollständigen Projektdateien (inkl. Quellcode und Assets) überschreiten die Speicherlimite und sind daher **nicht** online verfügbar.
+Aufgrund von Speicherbeschränkungen wurden **ausschliesslich die Applikationen** (Builds) des Projekts hochgeladen. Die vollständigen Projektdateien (inkl. Quellcode und Assets) überschreiten die Speicherlimite und sind daher **nicht** online verfügbar.
 
 👉 Zugriff auf die hochgeladenen Applikationen:  
 [[Link zu den Applikationen]
