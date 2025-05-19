@@ -11,7 +11,7 @@ Diese Bachelorarbeit beschäftigt sich mit der Entwicklung, Integration und Anwe
 Aufgrund von Speicherbeschränkungen wurden **ausschließlich die Applikationen** (Builds) des Projekts hochgeladen. Die vollständigen Projektdateien (inkl. Quellcode und Assets) überschreiten die Speicherlimite und sind daher **nicht** online verfügbar.
 
 👉 Zugriff auf die hochgeladenen Applikationen:  
-[[Dropbox-Link hier einfügen]
+[[Link zu den Applikationen]
 ](https://www.dropbox.com/scl/fo/gj1uvcqeorqhmsswwzl4v/AEwzyOggLzfv546gV3u_nn8?rlkey=k0elpco3wrah2x3dmpqw9kchk&st=97ej8gwv&dl=0)
 
 Wenn du Zugriff auf die restlichen Projektdateien benötigst oder Fragen zum Projekt hast, kontaktiere mich bitte unter:
